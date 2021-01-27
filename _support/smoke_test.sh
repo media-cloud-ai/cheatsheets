@@ -13,8 +13,9 @@ trap exit_failure ERR
 
 
 files=(
-  _site/vim.html
-  _site/react.html
+  _site/workflow.html
+  _site/rust-worker-sdk.html
+  _site/python-worker-sdk.html
   _site/index.html
 )
 
